@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+### I'm Harsh Surani
+
+Software Engineer who enjoys building clean, scalable systems.
+
+I write code, break things, fix them, and repeat.
+
+
 <!--
 **suraniharsh/suraniharsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

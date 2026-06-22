@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Harsh Surani
+### I'm [Harsh Surani](http://suraniharsh.com/?from=gh)
 
 Software Engineer who enjoys building clean, scalable systems.
 
